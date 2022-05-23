@@ -1,5 +1,6 @@
 {
   "app": "dotnet run --project src/CdkWorkshop/CdkWorkshop.csproj",
+  "requireApproval": "never",
   "watch": {
     "include": [
       "**"
